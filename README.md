@@ -17,5 +17,5 @@ data/
 --query  
 
 # How to use
-To run a test query and generate a CSV file comprising of 300 queries, each outputing 10 top results, run **python model_lib.py**.  
-To use the UI app, run **streamlit run app.py**.  
+To run a test query and generate a CSV file comprising of 300 queries, each outputing 10 top results, run `python model_lib.py`.  
+To use the UI app, run `streamlit run app.py`.  
