@@ -8,7 +8,9 @@ The UI was made using Streamlit.
 # Data
 Before running the app, download the data from here: https://drive.google.com/file/d/1nQIfFMeQuq2rmYHcYAZGMqpROP4s8kAO/view?usp=sharing  
 Copy the folders **database** and **query** from **Landmark_Retrieval/test/** to **./data/**.  
+  
 The required folder structure is:  
+  
 data/  
 --checkpoint-500   
 --database/  
