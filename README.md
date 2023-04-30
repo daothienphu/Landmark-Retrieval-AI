@@ -19,3 +19,6 @@ data/
 # How to use
 To run a test query and generate a CSV file comprising of 300 queries, each outputing 10 top results, run `python model_lib.py`.  
 To use the UI app, run `streamlit run app.py`.  
+
+# Screenshot
+![image](https://user-images.githubusercontent.com/55624202/235338857-c1d16dd3-12f8-4d8d-8bcd-5f44e283ef8d.png)
